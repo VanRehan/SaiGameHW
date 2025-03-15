@@ -2,13 +2,13 @@
 
 ## Bước 1: Fork Repository
 
-1. Truy cập vào repository GitHub tại [HinMinh/SaiYouni](https://github.com/HinMinh/SaiYouni.git).
+1. Truy cập vào repository GitHub tại [HinMinh/SaiGameHW](https://github.com/HinMinh/SaiGameHW).
 2. Ở góc trên bên phải, nhấp vào nút **Fork**. Điều này sẽ tạo một bản sao của repository dưới tài khoản GitHub của bạn.
 
 ## Bước 2: Clone Repository Đã Fork
 
 1. Sau khi fork, vào tài khoản GitHub của bạn và tìm repository đã được fork.
-2. Sao chép URL của repository bạn vừa fork. Nó sẽ trông như thế này: https://github.com/ten-tai-khoan-cua-ban/SaiYouni.git.
+2. Sao chép URL của repository bạn vừa fork. Nó sẽ trông như thế này: https://github.com/ten-tai-khoan-cua-ban/SaiGameHW.git.
 3. Mở terminal (hoặc Git Bash trên Windows), và chạy lệnh sau để clone repository về máy tính của bạn:
 git clone https://github.com/ten-tai-khoan-cua-ban/SaiYouni.git
 4. Di chuyển vào thư mục của repository:
